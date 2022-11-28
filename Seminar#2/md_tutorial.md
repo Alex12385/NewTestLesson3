@@ -8,6 +8,7 @@
 ```html
 <table><tr><td style="bgcolor:#ff783">Текст</td></tr></table>
 ```
+
 Пример рабочего кода без кавычек:
 <table><tr><td style="color:#FFD700">Текст</td></tr></table>
 
