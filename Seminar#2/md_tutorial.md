@@ -56,3 +56,11 @@ zebra stripes|are neat|~~$1~~
 Пример:
 
 [![Прикол](https://dbmast.ru/wp-content/uploads/2014/03/button-css-3d.png)](https://www.youtube.com/shorts/1NVVcqA_m3s)
+
+
+
+## Зачеркивание
+
+В разметке MarkDown зачеркивание произодится путем простановки знаков тильды ~~ до и после текста:
+
+~~Зачеркнуто~~
